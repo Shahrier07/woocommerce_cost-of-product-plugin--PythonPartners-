@@ -1,0 +1,1 @@
+# woocommerce_cost-of-product-plugin-python-Partners-
