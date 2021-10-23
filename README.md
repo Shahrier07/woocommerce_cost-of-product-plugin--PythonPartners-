@@ -1,1 +1,1 @@
-# woocommerce_cost-of-product-plugin-python-Partners-
+# woocommerce_cost-of-product-plugin(Python Partners)
